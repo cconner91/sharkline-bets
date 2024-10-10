@@ -103,6 +103,8 @@ Historical Data Import - This will need to be pulled from a date range
 ### PrizePicks
 ### HardRock
 ### BetMGM
+### Fanatics
+### ESPN Bet
 
 ### Manual Import of Data
 
@@ -144,7 +146,10 @@ Subcription Tiered Model for Premium Services with Annual Subscription discount 
 - **Sentiment Alerts**: Daily alerts and news 
 ___
 
+## 10. Monetization
 
+1. Shark Pro and SharkPlatinum Accounts
+2. Affiliate Sportsbook Referrals
 
 
 # Tech Stack
